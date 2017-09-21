@@ -1,0 +1,27 @@
+what are vaiables
+variable are empty boxes stored in memory of program.
+think of empty box  with lids on((global scope) don't worry you learn when you learn object or scopes).
+you can put diferent things in those box.
+you can put box in another box.
+this is what variable is.
+they have to invoke variable with a 'var' keyword.
+
+strings
+strings are all ascii character in keyboard.
+they are enclosed in "" or '' qoutes.
+
+function.
+think of function as 'task' or the tiny 'Action' your program perfoms when you invoke it.
+it has arguments in callback or as parameter.
+arguments are the task you defined for the function.
+
+if statement
+have you ever thought you have to choose between buying ps4 or xboxone? or buying simple chocolate?
+move on to logical  if statement.
+if statement are paths you take after deciding which logic to act upon.the syntax is 'if(logic){statement}'
+
+Boolean values
+are values that are either true or false.
+they come as 'true' or 'false'
+syntax is 'true' or 'false'.
+you mostly use them in logical processing or thinking.
